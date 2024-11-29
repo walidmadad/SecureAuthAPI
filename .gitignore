@@ -1,0 +1,32 @@
+# Node.js
+/node_modules/
+
+# Environnement de développement
+.env
+*.env
+
+# Logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+logs/
+
+# Répertoire de couverture de tests (par exemple, si vous utilisez Jest)
+coverage/
+
+# Dossiers temporaires
+*.tmp
+*.swp
+
+# Fichiers de système d'exploitation
+.DS_Store
+Thumbs.db
+
+# VSC (Visual Studio Code)
+.vscode/
+
+# IDEs et éditeurs divers
+.idea/
+
+# Système de tests (ex: jest, mocha)
+test/
